@@ -1,0 +1,8 @@
+
+Hobby project used to learn different programming languanges by implementing websocket tunnel server/client
+ 
+websocket tunnel is the most important thing I used everyday. 
+Not only for creating a self-owned intranet for self-hosted services, but also get the freedom from passing through NAT of my company
+
+Previously, I just relied on existing websocket tunnel tool
+An idea to implement self-owned version for both better self-studying and not be stocked by the update status of existing tools 
