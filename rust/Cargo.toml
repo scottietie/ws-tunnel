@@ -1,0 +1,13 @@
+[package]
+name = "ws-tunnel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+tokio = { version = "1", features = ["full"] }
+tokio-tungstenite = { version = "0.23", features = ["native-tls"] }
+futures-util = "0.3"
+url = "2"
+tokio-native-tls = "0.3"
+native-tls = "0.2"
